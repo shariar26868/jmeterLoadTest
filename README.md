@@ -4,7 +4,7 @@
 
 This repository contains a JMeter test plan designed for [insert purpose, e.g., performance testing an API, load testing a web application]. The test plan simulates multiple transaction scenarios, including deposits, money transfers, payments, and withdrawals.
 
-![JMeter Overview](C:\Users\User\OneDrive\Desktop)
+![JMeter Overview]([C:\Users\User\OneDrive\Desktop](https://drive.google.com/file/d/1_sYCLc7_0ix9HelXbUuwLd7ZT3Uh13FW/view?usp=sharing))
 
 ## Table of Contents
 
